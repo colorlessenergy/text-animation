@@ -1,0 +1,11 @@
+body {
+    background-color: whitesmoke;
+}
+
+h1 {
+    color: black;
+    font-size: 64px;
+    font-family: 'Press Start 2P', cursive;
+    transition: all 0.5s ease;
+    
+}
