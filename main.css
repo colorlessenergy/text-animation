@@ -1,11 +1,13 @@
-body {
+html, body {
     background-color: whitesmoke;
+    margin: 0;
+    height: 100%;
+    width: 100%;
 }
 
-h1 {
+h1, h2 {
     color: black;
-    font-size: 64px;
+    font-size: 35px;
     font-family: 'Press Start 2P', cursive;
     transition: all 0.5s ease;
-    
 }
